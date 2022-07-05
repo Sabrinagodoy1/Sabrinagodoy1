@@ -1,6 +1,6 @@
 ## Olá! eu sou a Sabrina Godoy 
 ### -😊 Pronouns:ela/dela
-### -💻 Futura Desenvolvedora Full Stack Java Junior
+### -💻 Desenvolvedora Full Stack Java Junior
 ### -📔Estudante da GENERATION BRASIL
 <div align="center">
   <a href="https://github.com/Sabrinagodoy1">
